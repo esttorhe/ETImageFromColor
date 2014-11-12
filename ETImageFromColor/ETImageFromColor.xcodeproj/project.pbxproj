@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		11BAA0E21A12EE3400C44C96 /* UIImage+ETConvenience.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+ETConvenience.h"; sourceTree = "<group>"; };
+		11BAA0E31A12EE3400C44C96 /* UIImage+ETConvenience.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ETConvenience.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		11BAA0DA1A12EDFB00C44C96 = {
+			isa = PBXGroup;
+			children = (
+				11BAA0E11A12EE0C00C44C96 /* Classes */,
+			);
+			sourceTree = "<group>";
+		};
+		11BAA0E11A12EE0C00C44C96 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				11BAA0E21A12EE3400C44C96 /* UIImage+ETConvenience.h */,
+				11BAA0E31A12EE3400C44C96 /* UIImage+ETConvenience.m */,
+			);
+			name = Classes;
+			path = ../Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		11BAA0DB1A12EDFB00C44C96 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+			};
+			buildConfigurationList = 11BAA0DE1A12EDFB00C44C96 /* Build configuration list for PBXProject "ETImageFromColor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 11BAA0DA1A12EDFB00C44C96;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		11BAA0DF1A12EDFB00C44C96 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		11BAA0E01A12EDFB00C44C96 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		11BAA0DE1A12EDFB00C44C96 /* Build configuration list for PBXProject "ETImageFromColor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11BAA0DF1A12EDFB00C44C96 /* Debug */,
+				11BAA0E01A12EDFB00C44C96 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 11BAA0DB1A12EDFB00C44C96 /* Project object */;
+}
