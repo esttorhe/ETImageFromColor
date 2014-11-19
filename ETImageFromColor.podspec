@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.author             = { "Esteban Torres" => "me@estebantorr.es" }
-  s.social_media_url   = "http://twitter.com/Creegan119"
+  s.social_media_url   = "http://twitter.com/esttorhe"
   s.platform     = :ios
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/esttorhe/ETImageFromColor.git", :tag => s.version }
